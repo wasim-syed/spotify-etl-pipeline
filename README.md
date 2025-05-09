@@ -30,7 +30,7 @@ An AWS Glue Crawler automatically crawls the transformed data stored in the desi
 Finally, Amazon Athena, a serverless interactive query service, is used to analyze the cataloged data in the transformed S3 bucket. Utilizing standard SQL, analysts and stakeholders can directly query the data without the need for setting up or managing any infrastructure.
 
 ### Dataset/API 
-https://developer.spotify.com/documentation/web-api
+[Spotify API](https://developer.spotify.com/documentation/web-api/)
 
 ### Installed Packages
 ```
